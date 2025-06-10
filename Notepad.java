@@ -112,7 +112,7 @@ public class NotepadApp extends JFrame implements ActionListener {
                 break;
 
             case "About":
-                JOptionPane.showMessageDialog(this, "Notepad App\nBuilt with Java Swing\nBy Code GPT", "About", JOptionPane.INFORMATION_MESSAGE);
+                JOptionPane.showMessageDialog(this, "Notepad App\nBuilt with Java Swing\nBy Kidus Yosef", "About", JOptionPane.INFORMATION_MESSAGE);
                 break;
         }
     }
